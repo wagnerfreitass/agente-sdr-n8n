@@ -23,3 +23,13 @@ O exemplo termina com a resposta no chat. O encaminhamento citado na mensagem fi
 4. Faça duas conversas em sessões separadas: informe R$ 49.999 na primeira e R$ 50.000 na segunda. Compare o encerramento com a tabela acima.
 
 O nome da empresa, o roteiro e o limite de faturamento podem ser ajustados na mensagem de sistema do nó **AI Agent**.
+
+## 👨‍💻 Autor
+
+**Wagner Freitas**
+
+Desenvolvedor de Automações e IA\
+n8n • AI Agents • Integrações • Low-Code
+
+🔗 LinkedIn:\
+[https://www.linkedin.com/in/wagner-freitas-1b5a0211b](https://www.linkedin.com/in/wagner-freitas-1b5a0211b)

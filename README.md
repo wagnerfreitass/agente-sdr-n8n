@@ -23,7 +23,3 @@ O exemplo termina com a resposta no chat. O encaminhamento citado na mensagem fi
 4. Faça duas conversas em sessões separadas: informe R$ 49.999 na primeira e R$ 50.000 na segunda. Compare o encerramento com a tabela acima.
 
 O nome da empresa, o roteiro e o limite de faturamento podem ser ajustados na mensagem de sistema do nó **AI Agent**.
-
-## Crédito
-
-Workflow de exemplo identificado no arquivo original como **Agente SDR Exemplo - By Ric Neves**. Edição organizada para estudo e demonstração em portfólio.
